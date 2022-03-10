@@ -1,10 +1,11 @@
 # Neuefische Data Science boot camp
 ---
 ## EDA project 
-![built](https://img.shields.io/appveyor/build/ChristianKlingler/EDA_project) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) 
 
 
-[Neuefische GmbH](https://www.neuefische.de/) provides for a variety of boot camps as advanced training courses. Amongst the training courses are a data science course. Integral part of this training are hands-on excercises, like this one here. 
+[Neuefische GmbH](https://www.neuefische.de/) provides for a variety of boot camps as advanced training courses. Amongst the training courses is a data science course. Integral part of this training are hands-on excercises, like this one here. 
 
 This repository contains the outcome of an exploratory data analysis (EDA) focussing on applying techniques concerning EDA workflow, Python coding, basic statistical analysis, and data presentation. 
 
